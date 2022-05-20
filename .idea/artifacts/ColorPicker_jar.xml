@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ColorPicker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ColorPicker_jar</output-path>
+    <root id="archive" name="ColorPicker.jar">
+      <element id="module-output" name="ColorPicker" />
+    </root>
+  </artifact>
+</component>
